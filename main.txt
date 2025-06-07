@@ -2,3 +2,5 @@ This is main file
 
 changed from feature 2 branch
 changed again from feature1
+===========changes from FEATURE2============
+
